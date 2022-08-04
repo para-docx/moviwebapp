@@ -14,7 +14,9 @@ padding: 20px 0;
 margin: 0 auto;
 `;
 export const LogoImg = styled.img`
-width: 200px;
+width: 100px;
+height: 100px;
+
 
 @media screen and (max-width: 500px) {
   width: 150px;
