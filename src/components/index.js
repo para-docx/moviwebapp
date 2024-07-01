@@ -11,7 +11,7 @@ const Header = () => (
     <Wrapper>
         <Content>
             <Link to='/'>
-                <LogoImg src={anidb} alt='logo1' />
+                // <LogoImg src={anidb} alt='logo1' />
             </Link>
             <ANIDBlogo src={logo2} alt='logo2' />
 
