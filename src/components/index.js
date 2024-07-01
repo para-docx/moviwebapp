@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom"
 
-// import anidb from '../images/react-movie-logo.svg';
+import anidb from '../images/react-movie-logo.svg';
 
 import logo2 from '../images/tmdb_logo.svg';
 
